@@ -2,7 +2,7 @@
 **Summary**
 
 
-In this report, we present models for optimizing the acquisition of a variety of face masks intended to be used by care providers to care for victims of the Covid-19 pandemic.
+In this project, we present models for optimizing the acquisition of a variety of face masks intended to be used by care providers to care for victims of the Covid-19 pandemic.
 Our models will consider 33 hospitals the San Francisco Bay Area, and both surgical and N95 face masks.
 
 We have set our focus on acquiring the correct number of masks given some variety of conditions.
